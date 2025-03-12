@@ -1,12 +1,10 @@
 # SaaS Landing Page com Next.js e Shadcn/UI
 
+![image](https://github.com/user-attachments/assets/1888c6b2-ce4e-420e-93bc-7f27cc20cdfc)
+
 Crie uma landing page para um SaaS com o estilo de design do Notion usando **Next.js**, **Tailwind CSS** e **Shadcn/UI**.
 
-## 🤓 Antes de começar
-
-Este mini-projeto será desenvolvido do zero — a transposição do design faz parte do desafio! Não há arquivos iniciais. Comece com um novo projeto **Next.js**.
-
-## 🔨 Requisitos
+## Detalhes
 
 - **Navbar:** Implemente uma Navbar simples com:
     - Logotipo à esquerda.
@@ -20,10 +18,6 @@ Este mini-projeto será desenvolvido do zero — a transposição do design faz 
     - Botão de call to action (CTA) **"Assine Agora"**.
     - Siga o design do Figma.
 
-> 👀 **Dicas**:
->
-> - Use o componente `Input` do `shadcn/ui` para o campo de e-mail.
-> - Use o componente `Button` do `shadcn/ui` para todos os botões.
 
 - **Seção "Como Funciona":** Explique o funcionamento em três etapas:
     - Acesso a um ebook por mês.
@@ -55,29 +49,14 @@ Este mini-projeto será desenvolvido do zero — a transposição do design faz 
 
 - **Animações:** Adicione animações de transição suave ao rolar a página.
 
-## 🎨 Design Sugerido
+## Tecnologías:
 
-Siga o design no Figma para este mini-projeto.
-
-### Figma
-
-🔗 [Link do design](https://www.figma.com/community/file/1423775673058225189/mini-projeto-saas-landing-page-com-next-js)
-
-## 👉🏽 Sobre este Mini-Projeto
-
-### O que você irá praticar:
-
-#### React
+### React
 
 - Criar e organizar componentes modulares.
 - Estilização com Next.js.
 
-#### Tailwind CSS
+### Tailwind CSS
 
 - Estilizar componentes de forma responsiva.
 - Trabalhar com grids e/ou flexbox para layout.
-
-### Pré-requisitos
-
-- Conhecimento básico de **Next.js**.
-- Experiência com **Tailwind CSS**.
